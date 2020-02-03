@@ -1,0 +1,64 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box
+}
+
+
+
+header{
+	height:400px;
+}
+
+.introduction{
+	padding:20px;
+	float:left;
+}
+
+.introduction-font{
+	color:#797979;
+	font-size: 30px;
+}
+
+.top-image{
+	height:400px;
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+
+}
+
+.content{
+	margin:0 auto;
+	width: 840px;
+}
+
+.four{
+}
+
+.webcamp{
+	padding:50px 0 30px 0;
+}
+
+.webcamp-pro{
+	padding:30px 0 30px 0;
+}
+
+.webcamp-woman{
+	padding:30px 0 30px 0;
+}
+
+.webcamp-career{
+	padding:30px 0 30px 0;
+}
+
+.border{
+	border:1px solid #797979;
+}
+
+
+
+
+
+footer{
+	height:50px;
+}
